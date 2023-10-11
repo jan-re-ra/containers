@@ -1,0 +1,6 @@
+{
+  "window.zoomLevel": -1,
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///c%3A/git/github_actions_practice/containers/.github/workflows/deploy.yml"
+  }
+}
